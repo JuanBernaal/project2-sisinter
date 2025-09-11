@@ -7,7 +7,7 @@ A Spanish-language, narrative-heavy text adventure set in Cali at midnight. Infi
 - **Language:** Spanish (story, UI, and commands)
 - **Core Pillars:** Stealth, time pressure, meaningful choices, and audio-driven atmosphere
 - **Endings:** Empty, Captured, Neutral, Clean, Expose
-- [Showcase video (YouTube)](https://youtu.be/fbJviau3358])
+- [Showcase video (YouTube)](}https://youtu.be/xn88LEFtiJ4])
 
 ## Team Members
 - **RUI YU LEI WU**
