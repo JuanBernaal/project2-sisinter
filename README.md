@@ -62,8 +62,8 @@ ProyectoCorreccion/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd ProyectoCorreccion
+   git clone https://github.com/JuanBernaal/project2-sisinter.git
+   cd 'project 2 - corrected'
    ```
 
 2. **Install audio dependencies:**
