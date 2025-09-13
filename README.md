@@ -41,7 +41,7 @@ pip install PyOpenAL
 
 ## Project Structure
 ```
-ProyectoCorreccion/
+project 2 - corrected/
 ├── game.py              # Main game loop and logic
 ├── sound.py             # OpenAL 3D audio system
 ├── sound_adapter.py     # Audio interface layer
